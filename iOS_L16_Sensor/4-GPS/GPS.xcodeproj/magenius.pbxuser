@@ -1,0 +1,220 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* GPSAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 450}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 452}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* GPS */ = {
+		activeExec = 0;
+		executables = (
+			43D6E6E5130CCE8B00D41729 /* GPS */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 43D6E6E5130CCE8B00D41729 /* GPS */;
+		activeSDKPreference = iphoneos4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GPS */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GPS */,
+		);
+		codeSenseManager = 43D6E6EA130CCE9E00D41729 /* Code sense */;
+		executables = (
+			43D6E6E5130CCE8B00D41729 /* GPS */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					537,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					557,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321028345;
+			PBXWorkspaceStateSaveDate = 321028345;
+		};
+		perUserProjectItems = {
+			4326D75D130D74AF006C4807 /* PBXTextBookmark */ = 4326D75D130D74AF006C4807 /* PBXTextBookmark */;
+			4326D75E130D74AF006C4807 /* PBXTextBookmark */ = 4326D75E130D74AF006C4807 /* PBXTextBookmark */;
+			43400581132286A700713017 /* PBXTextBookmark */ = 43400581132286A700713017 /* PBXTextBookmark */;
+			43400582132286A700713017 /* PBXTextBookmark */ = 43400582132286A700713017 /* PBXTextBookmark */;
+			434D8289131D2E0800099632 /* PBXTextBookmark */ = 434D8289131D2E0800099632 /* PBXTextBookmark */;
+			434D82FE131D323000099632 /* PBXTextBookmark */ = 434D82FE131D323000099632 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 43D6E6E9130CCE9E00D41729 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* GPS_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {636, 350}}";
+			sepNavSelRange = "{175, 0}";
+			sepNavVisRange = "{0, 175}";
+		};
+	};
+	4326D75D130D74AF006C4807 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* GPS_Prefix.pch */;
+		name = "GPS_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 175;
+		vrLoc = 0;
+	};
+	4326D75E130D74AF006C4807 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GPSAppDelegate.h */;
+		name = "GPSAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 452;
+		vrLoc = 0;
+	};
+	43400581132286A700713017 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 43D6E6EC130CCEA900D41729 /* GPSViewController.m */;
+		name = "GPSViewController.m: 85";
+		rLen = 0;
+		rLoc = 2380;
+		rType = 0;
+		vrLen = 651;
+		vrLoc = 2002;
+	};
+	43400582132286A700713017 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 43D6E6EB130CCEA900D41729 /* GPSViewController.h */;
+		name = "GPSViewController.h: 11";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 565;
+		vrLoc = 0;
+	};
+	434D8284131D2E0000099632 /* CLLocationManager.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CLLocationManager.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManager.h;
+		sourceTree = "<absolute>";
+	};
+	434D8289131D2E0800099632 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 434D8284131D2E0000099632 /* CLLocationManager.h */;
+		name = "CLLocationManager.h: 108";
+		rLen = 0;
+		rLoc = 3013;
+		rType = 0;
+		vrLen = 1315;
+		vrLoc = 2863;
+	};
+	434D82FE131D323000099632 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 43D6E6EB130CCEA900D41729 /* GPSViewController.h */;
+		name = "GPSViewController.h: 24";
+		rLen = 6;
+		rLoc = 552;
+		rType = 0;
+		vrLen = 565;
+		vrLoc = 0;
+	};
+	43D6E6E5130CCE8B00D41729 /* GPS */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GPS;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	43D6E6E9130CCE9E00D41729 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	43D6E6EA130CCE9E00D41729 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	43D6E6EB130CCEA900D41729 /* GPSViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {715, 502}}";
+			sepNavSelRange = "{207, 0}";
+			sepNavVisRange = "{0, 565}";
+		};
+	};
+	43D6E6EC130CCEA900D41729 /* GPSViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1308, 2048}}";
+			sepNavSelRange = "{2380, 0}";
+			sepNavVisRange = "{2002, 651}";
+		};
+	};
+}

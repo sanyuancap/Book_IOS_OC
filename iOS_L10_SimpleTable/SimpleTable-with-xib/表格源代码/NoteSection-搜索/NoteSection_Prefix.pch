@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'NoteSection' target in the 'NoteSection' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

@@ -1,0 +1,282 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3DB3C4E815DB7D9F0085822B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DB3C4E715DB7D9F0085822B /* UIKit.framework */; };
+		3DB3C4EA15DB7D9F0085822B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DB3C4E915DB7D9F0085822B /* Foundation.framework */; };
+		3DB3C4EC15DB7D9F0085822B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DB3C4EB15DB7D9F0085822B /* CoreGraphics.framework */; };
+		3DB3C4F215DB7D9F0085822B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3DB3C4F015DB7D9F0085822B /* InfoPlist.strings */; };
+		3DB3C4F415DB7D9F0085822B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DB3C4F315DB7D9F0085822B /* main.m */; };
+		3DB3C4F815DB7D9F0085822B /* SwitchViewAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DB3C4F715DB7D9F0085822B /* SwitchViewAppDelegate.m */; };
+		3DB3C50015DB7DF90085822B /* SwitchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DB3C4FF15DB7DF90085822B /* SwitchViewController.m */; };
+		3DB3C50315DB835C0085822B /* BlueViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DB3C50215DB835C0085822B /* BlueViewController.m */; };
+		3DB3C50615DB8B9C0085822B /* YellowViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DB3C50515DB8B9C0085822B /* YellowViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3DB3C4E315DB7D9F0085822B /* SwitchView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwitchView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3DB3C4E715DB7D9F0085822B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		3DB3C4E915DB7D9F0085822B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		3DB3C4EB15DB7D9F0085822B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		3DB3C4EF15DB7D9F0085822B /* SwitchView-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SwitchView-Info.plist"; sourceTree = "<group>"; };
+		3DB3C4F115DB7D9F0085822B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		3DB3C4F315DB7D9F0085822B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3DB3C4F515DB7D9F0085822B /* SwitchView-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SwitchView-Prefix.pch"; sourceTree = "<group>"; };
+		3DB3C4F615DB7D9F0085822B /* SwitchViewAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwitchViewAppDelegate.h; sourceTree = "<group>"; };
+		3DB3C4F715DB7D9F0085822B /* SwitchViewAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SwitchViewAppDelegate.m; sourceTree = "<group>"; };
+		3DB3C4FE15DB7DF90085822B /* SwitchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SwitchViewController.h; sourceTree = "<group>"; };
+		3DB3C4FF15DB7DF90085822B /* SwitchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SwitchViewController.m; sourceTree = "<group>"; };
+		3DB3C50115DB835C0085822B /* BlueViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BlueViewController.h; sourceTree = "<group>"; };
+		3DB3C50215DB835C0085822B /* BlueViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BlueViewController.m; sourceTree = "<group>"; };
+		3DB3C50415DB8B9C0085822B /* YellowViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YellowViewController.h; sourceTree = "<group>"; };
+		3DB3C50515DB8B9C0085822B /* YellowViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YellowViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3DB3C4E015DB7D9F0085822B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DB3C4E815DB7D9F0085822B /* UIKit.framework in Frameworks */,
+				3DB3C4EA15DB7D9F0085822B /* Foundation.framework in Frameworks */,
+				3DB3C4EC15DB7D9F0085822B /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3DB3C4D815DB7D9F0085822B = {
+			isa = PBXGroup;
+			children = (
+				3DB3C4ED15DB7D9F0085822B /* SwitchView */,
+				3DB3C4E615DB7D9F0085822B /* Frameworks */,
+				3DB3C4E415DB7D9F0085822B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3DB3C4E415DB7D9F0085822B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3DB3C4E315DB7D9F0085822B /* SwitchView.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3DB3C4E615DB7D9F0085822B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3DB3C4E715DB7D9F0085822B /* UIKit.framework */,
+				3DB3C4E915DB7D9F0085822B /* Foundation.framework */,
+				3DB3C4EB15DB7D9F0085822B /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3DB3C4ED15DB7D9F0085822B /* SwitchView */ = {
+			isa = PBXGroup;
+			children = (
+				3DB3C4F615DB7D9F0085822B /* SwitchViewAppDelegate.h */,
+				3DB3C4F715DB7D9F0085822B /* SwitchViewAppDelegate.m */,
+				3DB3C4FE15DB7DF90085822B /* SwitchViewController.h */,
+				3DB3C4FF15DB7DF90085822B /* SwitchViewController.m */,
+				3DB3C50115DB835C0085822B /* BlueViewController.h */,
+				3DB3C50215DB835C0085822B /* BlueViewController.m */,
+				3DB3C50415DB8B9C0085822B /* YellowViewController.h */,
+				3DB3C50515DB8B9C0085822B /* YellowViewController.m */,
+				3DB3C4EE15DB7D9F0085822B /* Supporting Files */,
+			);
+			path = SwitchView;
+			sourceTree = "<group>";
+		};
+		3DB3C4EE15DB7D9F0085822B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3DB3C4EF15DB7D9F0085822B /* SwitchView-Info.plist */,
+				3DB3C4F015DB7D9F0085822B /* InfoPlist.strings */,
+				3DB3C4F315DB7D9F0085822B /* main.m */,
+				3DB3C4F515DB7D9F0085822B /* SwitchView-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3DB3C4E215DB7D9F0085822B /* SwitchView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3DB3C4FB15DB7D9F0085822B /* Build configuration list for PBXNativeTarget "SwitchView" */;
+			buildPhases = (
+				3DB3C4DF15DB7D9F0085822B /* Sources */,
+				3DB3C4E015DB7D9F0085822B /* Frameworks */,
+				3DB3C4E115DB7D9F0085822B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SwitchView;
+			productName = SwitchView;
+			productReference = 3DB3C4E315DB7D9F0085822B /* SwitchView.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3DB3C4DA15DB7D9F0085822B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = SwitchView;
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = 3DB3C4DD15DB7D9F0085822B /* Build configuration list for PBXProject "SwitchView" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3DB3C4D815DB7D9F0085822B;
+			productRefGroup = 3DB3C4E415DB7D9F0085822B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3DB3C4E215DB7D9F0085822B /* SwitchView */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3DB3C4E115DB7D9F0085822B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DB3C4F215DB7D9F0085822B /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3DB3C4DF15DB7D9F0085822B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DB3C4F415DB7D9F0085822B /* main.m in Sources */,
+				3DB3C4F815DB7D9F0085822B /* SwitchViewAppDelegate.m in Sources */,
+				3DB3C50015DB7DF90085822B /* SwitchViewController.m in Sources */,
+				3DB3C50315DB835C0085822B /* BlueViewController.m in Sources */,
+				3DB3C50615DB8B9C0085822B /* YellowViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3DB3C4F015DB7D9F0085822B /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3DB3C4F115DB7D9F0085822B /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3DB3C4F915DB7D9F0085822B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3DB3C4FA15DB7D9F0085822B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3DB3C4FC15DB7D9F0085822B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SwitchView/SwitchView-Prefix.pch";
+				INFOPLIST_FILE = "SwitchView/SwitchView-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		3DB3C4FD15DB7D9F0085822B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SwitchView/SwitchView-Prefix.pch";
+				INFOPLIST_FILE = "SwitchView/SwitchView-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3DB3C4DD15DB7D9F0085822B /* Build configuration list for PBXProject "SwitchView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3DB3C4F915DB7D9F0085822B /* Debug */,
+				3DB3C4FA15DB7D9F0085822B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3DB3C4FB15DB7D9F0085822B /* Build configuration list for PBXNativeTarget "SwitchView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3DB3C4FC15DB7D9F0085822B /* Debug */,
+				3DB3C4FD15DB7D9F0085822B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3DB3C4DA15DB7D9F0085822B /* Project object */;
+}

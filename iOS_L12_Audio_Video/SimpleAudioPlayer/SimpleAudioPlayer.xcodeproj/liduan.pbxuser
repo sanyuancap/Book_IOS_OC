@@ -1,0 +1,211 @@
+// !$*UTF8*$!
+{
+	168CF218137A7EC100B33697 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SimpleAudioPlayerViewController.m */;
+		name = "SimpleAudioPlayerViewController.m: 51";
+		rLen = 0;
+		rLoc = 1288;
+		rType = 0;
+		vrLen = 660;
+		vrLoc = 1008;
+	};
+	1690C8D91346F27D0029657A /* SimpleAudioPlayer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SimpleAudioPlayer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1690C8EA1346F2870029657A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1690C8EB1346F2870029657A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1690C96A134C03EA0029657A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SimpleAudioPlayerViewController.h */;
+		name = "SimpleAudioPlayerViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 888;
+		vrLoc = 0;
+	};
+	1690CAD7134C53790029657A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SimpleAudioPlayerAppDelegate.m */;
+		name = "SimpleAudioPlayerAppDelegate.m: 26";
+		rLen = 0;
+		rLoc = 652;
+		rType = 0;
+		vrLen = 709;
+		vrLoc = 60;
+	};
+	1690CD4A134EA2590029657A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SimpleAudioPlayerViewController.m */;
+		name = "SimpleAudioPlayerViewController.m: 55";
+		rLen = 0;
+		rLoc = 1333;
+		rType = 0;
+		vrLen = 676;
+		vrLoc = 994;
+	};
+	1690CD4B134EA2590029657A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SimpleAudioPlayerViewController.m */;
+		name = "SimpleAudioPlayerViewController.m: 55";
+		rLen = 0;
+		rLoc = 1333;
+		rType = 0;
+		vrLen = 676;
+		vrLoc = 994;
+	};
+	1D3623240D0F684500981E51 /* SimpleAudioPlayerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 573}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 524}";
+			sepNavWindowFrame = "{{15, 77}, {750, 701}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SimpleAudioPlayerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1118}}";
+			sepNavSelRange = "{652, 0}";
+			sepNavVisRange = "{0, 1355}";
+			sepNavWindowFrame = "{{489, 77}, {750, 701}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SimpleAudioPlayer */ = {
+		activeExec = 0;
+		executables = (
+			1690C8D91346F27D0029657A /* SimpleAudioPlayer */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SimpleAudioPlayerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 663}}";
+			sepNavSelRange = "{985, 0}";
+			sepNavVisRange = "{0, 1141}";
+			sepNavWindowFrame = "{{530, 77}, {750, 701}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SimpleAudioPlayerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 2288}}";
+			sepNavSelRange = "{1288, 0}";
+			sepNavVisRange = "{1008, 660}";
+			sepNavWindowFrame = "{{438, 77}, {750, 701}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 1690C8D91346F27D0029657A /* SimpleAudioPlayer */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SimpleAudioPlayer */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SimpleAudioPlayer */,
+		);
+		codeSenseManager = 1690C8EB1346F2870029657A /* Code sense */;
+		executables = (
+			1690C8D91346F27D0029657A /* SimpleAudioPlayer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					762,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					722,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 326794940;
+			PBXWorkspaceStateSaveDate = 326794940;
+		};
+		perUserProjectItems = {
+			168CF218137A7EC100B33697 /* PBXTextBookmark */ = 168CF218137A7EC100B33697 /* PBXTextBookmark */;
+			1690C96A134C03EA0029657A = 1690C96A134C03EA0029657A /* PBXTextBookmark */;
+			1690CAD7134C53790029657A = 1690CAD7134C53790029657A /* PBXTextBookmark */;
+			1690CD4A134EA2590029657A = 1690CD4A134EA2590029657A /* PBXTextBookmark */;
+			1690CD4B134EA2590029657A = 1690CD4B134EA2590029657A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1690C8EA1346F2870029657A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* SimpleAudioPlayer-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 70}, {750, 708}}";
+		};
+	};
+}

@@ -1,0 +1,211 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* QXmlDomAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1057, 1428}}";
+			sepNavSelRange = "{434, 0}";
+			sepNavVisRange = "{182, 546}";
+		};
+	};
+	1D3623250D0F684500981E51 /* QXmlDomAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1325, 9940}}";
+			sepNavSelRange = "{10769, 0}";
+			sepNavVisRange = "{10347, 537}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* QXmlDom */ = {
+		activeExec = 0;
+		executables = (
+			3DC7AB2514BD38D30026663D /* QXmlDom */,
+		);
+	};
+	291F54BD131BE5EF0028FFBF /* GDataXMLNode.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1339, 6216}}";
+			sepNavSelRange = "{6139, 16}";
+			sepNavVisRange = "{3402, 754}";
+		};
+	};
+	291F54BE131BE5EF0028FFBF /* GDataXMLNode.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1103, 50932}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 597}";
+		};
+	};
+	291F54C2131BE6140028FFBF /* text.xml */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {832, 514}}";
+			sepNavSelRange = "{131, 12}";
+			sepNavVisRange = "{0, 403}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3DC7AB2514BD38D30026663D /* QXmlDom */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* QXmlDom */;
+		codeSenseManager = 3DC7AB3314BD39040026663D /* Code sense */;
+		executables = (
+			3DC7AB2514BD38D30026663D /* QXmlDom */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					869,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 351220877;
+			PBXWorkspaceStateSaveDate = 351220877;
+		};
+		perUserProjectItems = {
+			3D14EFB914EEBCF10007613B /* PBXTextBookmark */ = 3D14EFB914EEBCF10007613B /* PBXTextBookmark */;
+			3D5EC3BA14EF454E00847E79 /* PBXTextBookmark */ = 3D5EC3BA14EF454E00847E79 /* PBXTextBookmark */;
+			3D5EC3BC14EF454E00847E79 /* PBXTextBookmark */ = 3D5EC3BC14EF454E00847E79 /* PBXTextBookmark */;
+			3D5EC3BD14EF454E00847E79 /* PBXTextBookmark */ = 3D5EC3BD14EF454E00847E79 /* PBXTextBookmark */;
+			3D5EC3BE14EF454E00847E79 /* PBXTextBookmark */ = 3D5EC3BE14EF454E00847E79 /* PBXTextBookmark */;
+			3D5EC3BF14EF454E00847E79 /* PBXTextBookmark */ = 3D5EC3BF14EF454E00847E79 /* PBXTextBookmark */;
+			3D5EC3C014EF454E00847E79 /* PBXTextBookmark */ = 3D5EC3C014EF454E00847E79 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3DC7AB3214BD39040026663D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3D14EFB914EEBCF10007613B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 291F54BE131BE5EF0028FFBF /* GDataXMLNode.m */;
+		name = "GDataXMLNode.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 597;
+		vrLoc = 0;
+	};
+	3D5EC3BA14EF454E00847E79 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3D5EC3BB14EF454E00847E79 /* NSManagedObjectContext.h */;
+		name = "NSManagedObjectContext.h: 134";
+		rLen = 20;
+		rLoc = 6129;
+		rType = 0;
+		vrLen = 2330;
+		vrLoc = 5898;
+	};
+	3D5EC3BB14EF454E00847E79 /* NSManagedObjectContext.h */ = {
+		isa = PBXFileReference;
+		name = NSManagedObjectContext.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/NSManagedObjectContext.h;
+		sourceTree = "<absolute>";
+	};
+	3D5EC3BC14EF454E00847E79 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QXmlDomAppDelegate.h */;
+		name = "QXmlDomAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 434;
+		rType = 0;
+		vrLen = 546;
+		vrLoc = 182;
+	};
+	3D5EC3BD14EF454E00847E79 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 291F54BD131BE5EF0028FFBF /* GDataXMLNode.h */;
+		name = "GDataXMLNode.h: 192";
+		rLen = 16;
+		rLoc = 6139;
+		rType = 0;
+		vrLen = 754;
+		vrLoc = 3402;
+	};
+	3D5EC3BE14EF454E00847E79 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 291F54C2131BE6140028FFBF /* text.xml */;
+		name = "text.xml: 4";
+		rLen = 12;
+		rLoc = 131;
+		rType = 0;
+		vrLen = 403;
+		vrLoc = 0;
+	};
+	3D5EC3BF14EF454E00847E79 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QXmlDomAppDelegate.m */;
+		name = "QXmlDomAppDelegate.m: 215";
+		rLen = 12;
+		rLoc = 8484;
+		rType = 0;
+		vrLen = 677;
+		vrLoc = 8089;
+	};
+	3D5EC3C014EF454E00847E79 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QXmlDomAppDelegate.m */;
+		name = "QXmlDomAppDelegate.m: 296";
+		rLen = 0;
+		rLoc = 10769;
+		rType = 0;
+		vrLen = 537;
+		vrLoc = 10347;
+	};
+	3DC7AB2514BD38D30026663D /* QXmlDom */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = QXmlDom;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3DC7AB3214BD39040026663D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3DC7AB3314BD39040026663D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

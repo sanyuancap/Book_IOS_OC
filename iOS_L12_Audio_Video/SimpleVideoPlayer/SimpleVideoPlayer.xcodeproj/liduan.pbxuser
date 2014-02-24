@@ -1,0 +1,205 @@
+// !$*UTF8*$!
+{
+	168CEF1913790A8400B33697 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SimpleVideoPlayerViewController.m */;
+		name = "SimpleVideoPlayerViewController.m: 63";
+		rLen = 11;
+		rLoc = 1914;
+		rType = 0;
+		vrLen = 855;
+		vrLoc = 1237;
+	};
+	168CEF1A13790A8400B33697 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 168CEF1B13790A8400B33697 /* NSTimeZone.h */;
+		rLen = 1;
+		rLoc = 45;
+		rType = 1;
+	};
+	168CEF1B13790A8400B33697 /* NSTimeZone.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSTimeZone.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSTimeZone.h;
+		sourceTree = "<absolute>";
+	};
+	168CEF1C13790A8400B33697 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 168CEF1D13790A8400B33697 /* NSTimeZone.h */;
+		name = "NSTimeZone.h: 46";
+		rLen = 27;
+		rLoc = 1367;
+		rType = 0;
+		vrLen = 994;
+		vrLoc = 952;
+	};
+	168CEF1D13790A8400B33697 /* NSTimeZone.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSTimeZone.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSTimeZone.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1157}}";
+			sepNavSelRange = "{875, 1}";
+			sepNavVisRange = "{952, 994}";
+		};
+	};
+	168CF22C137A7F1600B33697 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 168CEF1D13790A8400B33697 /* NSTimeZone.h */;
+		name = "NSTimeZone.h: 47";
+		rLen = 0;
+		rLoc = 1394;
+		rType = 0;
+		vrLen = 950;
+		vrLoc = 952;
+	};
+	1690C633134560F90029657A /* SimpleVideoPlayer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SimpleVideoPlayer;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1690C63D134561170029657A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1690C63E134561170029657A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1690C951134C01860029657A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SimpleVideoPlayerViewController.h */;
+		name = "SimpleVideoPlayerViewController.h: 14";
+		rLen = 0;
+		rLoc = 280;
+		rType = 0;
+		vrLen = 559;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* SimpleVideoPlayerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 577}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 524}";
+			sepNavWindowFrame = "{{15, 73}, {750, 705}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SimpleVideoPlayerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1079}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1669}";
+			sepNavWindowFrame = "{{15, 70}, {750, 708}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SimpleVideoPlayer */ = {
+		activeExec = 0;
+		executables = (
+			1690C633134560F90029657A /* SimpleVideoPlayer */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SimpleVideoPlayerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 577}}";
+			sepNavSelRange = "{559, 0}";
+			sepNavVisRange = "{0, 559}";
+			sepNavWindowFrame = "{{617, 73}, {750, 705}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SimpleVideoPlayerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1274}}";
+			sepNavSelRange = "{1902, 24}";
+			sepNavVisRange = "{733, 1359}";
+			sepNavWindowFrame = "{{530, 73}, {750, 705}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 1690C633134560F90029657A /* SimpleVideoPlayer */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SimpleVideoPlayer */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SimpleVideoPlayer */,
+		);
+		codeSenseManager = 1690C63E134561170029657A /* Code sense */;
+		executables = (
+			1690C633134560F90029657A /* SimpleVideoPlayer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 326795027;
+			PBXWorkspaceStateSaveDate = 326795027;
+		};
+		perUserProjectItems = {
+			168CEF1913790A8400B33697 = 168CEF1913790A8400B33697 /* PBXTextBookmark */;
+			168CEF1A13790A8400B33697 = 168CEF1A13790A8400B33697 /* PBXTextBookmark */;
+			168CEF1C13790A8400B33697 = 168CEF1C13790A8400B33697 /* PBXTextBookmark */;
+			168CF22C137A7F1600B33697 /* PBXTextBookmark */ = 168CF22C137A7F1600B33697 /* PBXTextBookmark */;
+			1690C951134C01860029657A = 1690C951134C01860029657A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1690C63D134561170029657A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* SimpleVideoPlayer-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 73}, {750, 705}}";
+		};
+	};
+}

@@ -1,0 +1,196 @@
+// !$*UTF8*$!
+{
+	160864991367B79500418C3E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AnimationExpViewController.m */;
+	};
+	160864A21367B8B900418C3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* AnimationExpViewController.h */;
+		name = "AnimationExpViewController.h: 14";
+		rLen = 40;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 481;
+		vrLoc = 0;
+	};
+	160864A31367B8B900418C3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AnimationExpViewController.m */;
+		rLen = 1;
+		rLoc = 68;
+		rType = 1;
+	};
+	160864A41367B8B900418C3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AnimationExpViewController.m */;
+		name = "AnimationExpViewController.m: 69";
+		rLen = 39;
+		rLoc = 1732;
+		rType = 0;
+		vrLen = 1141;
+		vrLoc = 1605;
+	};
+	160864A51367B8B900418C3E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AnimationExpViewController.m */;
+		name = "AnimationExpViewController.m: 75";
+		rLen = 0;
+		rLoc = 2021;
+		rType = 0;
+		vrLen = 1273;
+		vrLoc = 459;
+	};
+	16217BD11338439A008C2B89 /* AnimationExp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AnimationExp;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	16217BD5133843B9008C2B89 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	16217BD6133843B9008C2B89 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	16217C0F1338936A008C2B89 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16217C101338936A008C2B89 /* CAAnimation.h */;
+		name = "CAAnimation.h: 267";
+		rLen = 17;
+		rLoc = 9541;
+		rType = 0;
+		vrLen = 1298;
+		vrLoc = 8827;
+	};
+	16217C101338936A008C2B89 /* CAAnimation.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CAAnimation.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAAnimation.h;
+		sourceTree = "<absolute>";
+	};
+	168CF15A137A71E100B33697 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AnimationExpViewController.m */;
+		name = "AnimationExpViewController.m: 79";
+		rLen = 0;
+		rLoc = 2305;
+		rType = 0;
+		vrLen = 1034;
+		vrLoc = 1605;
+	};
+	168CF15D137A71E100B33697 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AnimationExpViewController.m */;
+		name = "AnimationExpViewController.m: 75";
+		rLen = 0;
+		rLoc = 2021;
+		rType = 0;
+		vrLen = 1270;
+		vrLoc = 459;
+	};
+	1D6058900D05DD3D006BFB54 /* AnimationExp */ = {
+		activeExec = 0;
+		executables = (
+			16217BD11338439A008C2B89 /* AnimationExp */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* AnimationExpViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {940, 382}}";
+			sepNavSelRange = "{233, 40}";
+			sepNavVisRange = "{0, 481}";
+			sepNavWindowFrame = "{{246, 64}, {750, 714}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* AnimationExpViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1677}}";
+			sepNavSelRange = "{2021, 0}";
+			sepNavVisRange = "{459, 1270}";
+			sepNavWindowFrame = "{{246, 73}, {750, 705}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 16217BD11338439A008C2B89 /* AnimationExp */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AnimationExp */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* AnimationExp */,
+		);
+		codeSenseManager = 16217BD6133843B9008C2B89 /* Code sense */;
+		executables = (
+			16217BD11338439A008C2B89 /* AnimationExp */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					762,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 326791645;
+			PBXWorkspaceStateSaveDate = 326791645;
+		};
+		perUserProjectItems = {
+			160864991367B79500418C3E = 160864991367B79500418C3E /* PBXBookmark */;
+			160864A21367B8B900418C3E = 160864A21367B8B900418C3E /* PBXTextBookmark */;
+			160864A31367B8B900418C3E = 160864A31367B8B900418C3E /* PBXTextBookmark */;
+			160864A41367B8B900418C3E = 160864A41367B8B900418C3E /* PBXTextBookmark */;
+			160864A51367B8B900418C3E = 160864A51367B8B900418C3E /* PBXTextBookmark */;
+			16217C0F1338936A008C2B89 = 16217C0F1338936A008C2B89 /* PBXTextBookmark */;
+			168CF15A137A71E100B33697 /* PBXTextBookmark */ = 168CF15A137A71E100B33697 /* PBXTextBookmark */;
+			168CF15D137A71E100B33697 /* PBXTextBookmark */ = 168CF15D137A71E100B33697 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 16217BD5133843B9008C2B89 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

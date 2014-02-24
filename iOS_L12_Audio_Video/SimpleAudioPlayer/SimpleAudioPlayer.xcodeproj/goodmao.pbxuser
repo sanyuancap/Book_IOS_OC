@@ -1,0 +1,157 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* SimpleAudioPlayer */ = {
+		activeExec = 0;
+		executables = (
+			3D9BD0B814EAE4E200CBD2E2 /* SimpleAudioPlayer */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SimpleAudioPlayerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {684, 1302}}";
+			sepNavSelRange = "{1222, 6}";
+			sepNavVisRange = "{681, 562}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SimpleAudioPlayerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1638, 4179}}";
+			sepNavSelRange = "{3463, 7}";
+			sepNavVisRange = "{3357, 593}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3D9BD0B814EAE4E200CBD2E2 /* SimpleAudioPlayer */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SimpleAudioPlayer */;
+		codeSenseManager = 3D9BD0D214EAE4FD00CBD2E2 /* Code sense */;
+		executables = (
+			3D9BD0B814EAE4E200CBD2E2 /* SimpleAudioPlayer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					777,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 357870922;
+			PBXWorkspaceStateSaveDate = 357870922;
+		};
+		perUserProjectItems = {
+			3DB0CA2314EC285C0067279A /* PBXTextBookmark */ = 3DB0CA2314EC285C0067279A /* PBXTextBookmark */;
+			3DF769911554C43500C54AC5 /* PBXTextBookmark */ = 3DF769911554C43500C54AC5 /* PBXTextBookmark */;
+			3DF769921554C43500C54AC5 /* PBXTextBookmark */ = 3DF769921554C43500C54AC5 /* PBXTextBookmark */;
+			3DF769A71554C60700C54AC5 /* PBXTextBookmark */ = 3DF769A71554C60700C54AC5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3D9BD0D114EAE4FD00CBD2E2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* SimpleAudioPlayer_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1084, 252}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 203}";
+		};
+	};
+	3D9BD0B814EAE4E200CBD2E2 /* SimpleAudioPlayer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SimpleAudioPlayer;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3D9BD0D114EAE4FD00CBD2E2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3D9BD0D214EAE4FD00CBD2E2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3DB0CA2314EC285C0067279A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* SimpleAudioPlayer_Prefix.pch */;
+		name = "SimpleAudioPlayer_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 203;
+		vrLoc = 0;
+	};
+	3DF769911554C43500C54AC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SimpleAudioPlayerViewController.h */;
+		name = "SimpleAudioPlayerViewController.h: 58";
+		rLen = 6;
+		rLoc = 1222;
+		rType = 0;
+		vrLen = 562;
+		vrLoc = 681;
+	};
+	3DF769921554C43500C54AC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SimpleAudioPlayerViewController.m */;
+		name = "SimpleAudioPlayerViewController.m: 48";
+		rLen = 10;
+		rLoc = 1070;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 150;
+	};
+	3DF769A71554C60700C54AC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SimpleAudioPlayerViewController.m */;
+		name = "SimpleAudioPlayerViewController.m: 150";
+		rLen = 7;
+		rLoc = 3463;
+		rType = 0;
+		vrLen = 593;
+		vrLoc = 3357;
+	};
+}

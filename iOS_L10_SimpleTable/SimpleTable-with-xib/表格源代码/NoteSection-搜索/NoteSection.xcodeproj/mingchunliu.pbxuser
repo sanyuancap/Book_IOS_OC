@@ -1,0 +1,333 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* NoteSectionAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {717, 436}}";
+			sepNavSelRange = "{163, 0}";
+			sepNavVisRange = "{0, 489}";
+		};
+	};
+	1D3623250D0F684500981E51 /* NoteSectionAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {717, 504}}";
+			sepNavSelRange = "{211, 0}";
+			sepNavVisRange = "{0, 572}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* NoteSection */ = {
+		activeExec = 0;
+		executables = (
+			239FF73610CCEF010097B1CE /* NoteSection */,
+		);
+	};
+	239FF73610CCEF010097B1CE /* NoteSection */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = NoteSection;
+		sourceDirectories = (
+		);
+	};
+	239FF74510CCEF200097B1CE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	239FF74610CCEF200097B1CE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	239FF75310CCF99C0097B1CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* NoteSectionViewController.h */;
+		name = "NoteSectionViewController.h: 11";
+		rLen = 0;
+		rLoc = 206;
+		rType = 0;
+		vrLen = 236;
+		vrLoc = 0;
+	};
+	239FF75610CCF99C0097B1CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* NoteSectionViewController.m */;
+		name = "NoteSectionViewController.m: 8";
+		rLen = 0;
+		rLoc = 142;
+		rType = 0;
+		vrLen = 673;
+		vrLoc = 0;
+	};
+	23A1375910D3CB08006E6A33 /* NoteSection.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {717, 5434}}";
+			sepNavSelRange = "{7840, 0}";
+			sepNavVisRange = "{7688, 636}";
+			sepNavWindowFrame = "{{38, 53}, {619, 667}}";
+		};
+	};
+	23A1376210D3CC07006E6A33 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23A1375910D3CB08006E6A33 /* NoteSection.plist */;
+		name = "NoteSection.plist: 299";
+		rLen = 0;
+		rLoc = 7840;
+		rType = 0;
+		vrLen = 636;
+		vrLoc = 7688;
+	};
+	23A1376410D3CC07006E6A33 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NoteSectionAppDelegate.h */;
+		name = "NoteSectionAppDelegate.h: 9";
+		rLen = 0;
+		rLoc = 163;
+		rType = 0;
+		vrLen = 489;
+		vrLoc = 0;
+	};
+	23A1376510D3CC07006E6A33 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* NoteSectionViewController.h */;
+		name = "NoteSectionViewController.h: 4";
+		rLen = 0;
+		rLoc = 53;
+		rType = 0;
+		vrLen = 870;
+		vrLoc = 51;
+	};
+	23A1376610D3CC07006E6A33 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23C9D58910CD2488000BE7E8 /* DictionaryMutableDeepCopy.h */;
+		name = "DictionaryMutableDeepCopy.h: 5";
+		rLen = 0;
+		rLoc = 122;
+		rType = 0;
+		vrLen = 122;
+		vrLoc = 0;
+	};
+	23A1376910D3CC07006E6A33 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23A1375910D3CB08006E6A33 /* NoteSection.plist */;
+		name = "NoteSection: 299";
+		rLen = 0;
+		rLoc = 7840;
+		rType = 0;
+		vrLen = 636;
+		vrLoc = 7688;
+	};
+	23A1376E10D3CC07006E6A33 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NoteSectionAppDelegate.h */;
+		name = "NoteSectionAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 489;
+		vrLoc = 0;
+	};
+	23A1376F10D3CC07006E6A33 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NoteSectionAppDelegate.m */;
+		name = "NoteSectionAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 211;
+		rType = 0;
+		vrLen = 542;
+		vrLoc = 0;
+	};
+	23A4E6C1111AFD7C001A0541 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23C9D58A10CD249A000BE7E8 /* DictionaryMutableDeepCopy.m */;
+		name = "DictionaryMutableDeepCopy.m: 6";
+		rLen = 0;
+		rLoc = 142;
+		rType = 0;
+		vrLen = 641;
+		vrLoc = 0;
+	};
+	23A4E6C2111AFD7C001A0541 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NoteSectionAppDelegate.m */;
+		name = "NoteSectionAppDelegate.m: 10";
+		rLen = 0;
+		rLoc = 211;
+		rType = 0;
+		vrLen = 572;
+		vrLoc = 0;
+	};
+	23A4E6C5111AFD7C001A0541 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* NoteSectionViewController.m */;
+		name = "NoteSectionViewController.m: 155";
+		rLen = 0;
+		rLoc = 4395;
+		rType = 0;
+		vrLen = 684;
+		vrLoc = 3596;
+	};
+	23B1C4E511487DCD0049014F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* NoteSectionViewController.m */;
+		name = "NoteSectionViewController.m: 155";
+		rLen = 0;
+		rLoc = 4395;
+		rType = 0;
+		vrLen = 640;
+		vrLoc = 3640;
+	};
+	23C9D55F10CD0388000BE7E8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* NoteSection-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/FILES/书籍代码/表/NoteSection/NoteSection-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	23C9D56010CD0388000BE7E8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* NoteSection-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Volumes/FILES/书籍代码/表/NoteSection/NoteSection-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	23C9D58910CD2488000BE7E8 /* DictionaryMutableDeepCopy.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {717, 436}}";
+			sepNavSelRange = "{122, 0}";
+			sepNavVisRange = "{0, 122}";
+		};
+	};
+	23C9D58A10CD249A000BE7E8 /* DictionaryMutableDeepCopy.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {717, 436}}";
+			sepNavSelRange = "{142, 0}";
+			sepNavVisRange = "{0, 641}";
+		};
+	};
+	23C9D5B710CD3C52000BE7E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23C9D58910CD2488000BE7E8 /* DictionaryMutableDeepCopy.h */;
+		name = "DictionaryMutableDeepCopy.h: 1";
+		rLen = 0;
+		rLoc = 122;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	23C9D5B810CD3C52000BE7E8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23C9D58A10CD249A000BE7E8 /* DictionaryMutableDeepCopy.m */;
+		name = "DictionaryMutableDeepCopy.m: 1";
+		rLen = 0;
+		rLoc = 641;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	28D7ACF60DDB3853001CB0EB /* NoteSectionViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {717, 509}}";
+			sepNavSelRange = "{53, 0}";
+			sepNavVisRange = "{51, 870}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* NoteSectionViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {764, 2996}}";
+			sepNavSelRange = "{4395, 0}";
+			sepNavVisRange = "{3640, 640}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 239FF73610CCEF010097B1CE /* NoteSection */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* NoteSection */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* NoteSection */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 239FF74610CCEF200097B1CE /* Code sense */;
+		executables = (
+			239FF73610CCEF010097B1CE /* NoteSection */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					539,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 289963434;
+			PBXWorkspaceStateSaveDate = 289963434;
+		};
+		perUserProjectItems = {
+			239FF75310CCF99C0097B1CE /* PBXTextBookmark */ = 239FF75310CCF99C0097B1CE /* PBXTextBookmark */;
+			239FF75610CCF99C0097B1CE /* PBXTextBookmark */ = 239FF75610CCF99C0097B1CE /* PBXTextBookmark */;
+			23A1376210D3CC07006E6A33 /* PBXTextBookmark */ = 23A1376210D3CC07006E6A33 /* PBXTextBookmark */;
+			23A1376410D3CC07006E6A33 /* PBXTextBookmark */ = 23A1376410D3CC07006E6A33 /* PBXTextBookmark */;
+			23A1376510D3CC07006E6A33 /* PBXTextBookmark */ = 23A1376510D3CC07006E6A33 /* PBXTextBookmark */;
+			23A1376610D3CC07006E6A33 /* PBXTextBookmark */ = 23A1376610D3CC07006E6A33 /* PBXTextBookmark */;
+			23A1376910D3CC07006E6A33 /* PBXTextBookmark */ = 23A1376910D3CC07006E6A33 /* PBXTextBookmark */;
+			23A1376E10D3CC07006E6A33 /* PBXTextBookmark */ = 23A1376E10D3CC07006E6A33 /* PBXTextBookmark */;
+			23A1376F10D3CC07006E6A33 /* PBXTextBookmark */ = 23A1376F10D3CC07006E6A33 /* PBXTextBookmark */;
+			23A4E6C1111AFD7C001A0541 /* PBXTextBookmark */ = 23A4E6C1111AFD7C001A0541 /* PBXTextBookmark */;
+			23A4E6C2111AFD7C001A0541 /* PBXTextBookmark */ = 23A4E6C2111AFD7C001A0541 /* PBXTextBookmark */;
+			23A4E6C5111AFD7C001A0541 /* PBXTextBookmark */ = 23A4E6C5111AFD7C001A0541 /* PBXTextBookmark */;
+			23B1C4E511487DCD0049014F /* PBXTextBookmark */ = 23B1C4E511487DCD0049014F /* PBXTextBookmark */;
+			23C9D55F10CD0388000BE7E8 /* PlistBookmark */ = 23C9D55F10CD0388000BE7E8 /* PlistBookmark */;
+			23C9D56010CD0388000BE7E8 /* PlistBookmark */ = 23C9D56010CD0388000BE7E8 /* PlistBookmark */;
+			23C9D5B710CD3C52000BE7E8 /* PBXTextBookmark */ = 23C9D5B710CD3C52000BE7E8 /* PBXTextBookmark */;
+			23C9D5B810CD3C52000BE7E8 /* PBXTextBookmark */ = 23C9D5B810CD3C52000BE7E8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 239FF74510CCEF200097B1CE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* NoteSection-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 74}, {619, 667}}";
+		};
+	};
+}

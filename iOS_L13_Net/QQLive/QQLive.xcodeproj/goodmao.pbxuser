@@ -1,0 +1,214 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* QQLiveAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {956, 672}}";
+			sepNavSelRange = "{56, 4}";
+			sepNavVisRange = "{0, 446}";
+		};
+	};
+	1D3623250D0F684500981E51 /* QQLiveAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2924, 2660}}";
+			sepNavSelRange = "{60, 0}";
+			sepNavVisRange = "{0, 324}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* QQLive */ = {
+		activeExec = 0;
+		executables = (
+			3DF902AD15197EDA00AF7BDD /* QQLive */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* QQLiveViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {956, 896}}";
+			sepNavSelRange = "{63, 0}";
+			sepNavVisRange = "{0, 390}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* QQLiveViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1197, 4536}}";
+			sepNavSelRange = "{63, 0}";
+			sepNavVisRange = "{30, 565}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 3DF902AD15197EDA00AF7BDD /* QQLive */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* QQLive */;
+		breakpoints = (
+			3DF902CC151988E500AF7BDD /* QQLiveAppDelegate.m:80 */,
+		);
+		codeSenseManager = 3DF902CA15197F0D00AF7BDD /* Code sense */;
+		executables = (
+			3DF902AD15197EDA00AF7BDD /* QQLive */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					778,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 353992410;
+			PBXWorkspaceStateSaveDate = 353992410;
+		};
+		perUserProjectItems = {
+			3DF902D01519892200AF7BDD /* PBXTextBookmark */ = 3DF902D01519892200AF7BDD /* PBXTextBookmark */;
+			3DF902D11519892200AF7BDD /* PBXTextBookmark */ = 3DF902D11519892200AF7BDD /* PBXTextBookmark */;
+			3DF902D21519892200AF7BDD /* PBXTextBookmark */ = 3DF902D21519892200AF7BDD /* PBXTextBookmark */;
+			3DF902D31519892200AF7BDD /* PBXTextBookmark */ = 3DF902D31519892200AF7BDD /* PBXTextBookmark */;
+			3DF902D41519892200AF7BDD /* PBXBookmark */ = 3DF902D41519892200AF7BDD /* PBXBookmark */;
+			3DF902D51519892200AF7BDD /* PBXBookmark */ = 3DF902D51519892200AF7BDD /* PBXBookmark */;
+			3DF902D61519892200AF7BDD /* PBXBookmark */ = 3DF902D61519892200AF7BDD /* PBXBookmark */;
+			3DF902DB1519893900AF7BDD /* PlistBookmark */ = 3DF902DB1519893900AF7BDD /* PlistBookmark */;
+		};
+		sourceControlManager = 3DF902C915197F0D00AF7BDD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3DF902AD15197EDA00AF7BDD /* QQLive */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = QQLive;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3DF902C915197F0D00AF7BDD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3DF902CA15197F0D00AF7BDD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3DF902CC151988E500AF7BDD /* QQLiveAppDelegate.m:80 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* QQLiveAppDelegate.m */;
+		functionName = "-applicationDidReceiveMemoryWarning:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 80;
+		location = QQLive;
+		modificationTime = 353995056.09182;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	3DF902D01519892200AF7BDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QQLiveAppDelegate.h */;
+		name = "QQLiveAppDelegate.h: 5";
+		rLen = 4;
+		rLoc = 56;
+		rType = 0;
+		vrLen = 446;
+		vrLoc = 0;
+	};
+	3DF902D11519892200AF7BDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QQLiveAppDelegate.m */;
+		name = "QQLiveAppDelegate.m: 5";
+		rLen = 0;
+		rLoc = 60;
+		rType = 0;
+		vrLen = 324;
+		vrLoc = 0;
+	};
+	3DF902D21519892200AF7BDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* QQLiveViewController.h */;
+		name = "QQLiveViewController.h: 5";
+		rLen = 0;
+		rLoc = 63;
+		rType = 0;
+		vrLen = 390;
+		vrLoc = 0;
+	};
+	3DF902D31519892200AF7BDD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* QQLiveViewController.m */;
+		name = "QQLiveViewController.m: 5";
+		rLen = 0;
+		rLoc = 63;
+		rType = 0;
+		vrLen = 565;
+		vrLoc = 30;
+	};
+	3DF902D41519892200AF7BDD /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3DD9D45B1419B441007D65F2 /* QQLive_Bg_320x460.png */;
+	};
+	3DF902D51519892200AF7BDD /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 293FDEA312B28C3B00C3B299 /* icon.png */;
+	};
+	3DF902D61519892200AF7BDD /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* QQLive-Info.plist */;
+	};
+	3DF902DB1519893900AF7BDD /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* QQLive-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/work/T74_iOS_Demo/iOS-L13/QQLive/QQLive-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}

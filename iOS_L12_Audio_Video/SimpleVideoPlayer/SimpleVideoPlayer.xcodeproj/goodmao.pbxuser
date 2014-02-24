@@ -1,0 +1,139 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* SimpleVideoPlayer */ = {
+		activeExec = 0;
+		executables = (
+			3D9BD0DE14EAE53200CBD2E2 /* SimpleVideoPlayer */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SimpleVideoPlayerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {765, 700}}";
+			sepNavSelRange = "{187, 11}";
+			sepNavVisRange = "{153, 403}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SimpleVideoPlayerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1009, 3136}}";
+			sepNavSelRange = "{1593, 4}";
+			sepNavVisRange = "{2554, 322}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3D9BD0DE14EAE53200CBD2E2 /* SimpleVideoPlayer */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SimpleVideoPlayer */;
+		codeSenseManager = 3D9BD0F614EAE54600CBD2E2 /* Code sense */;
+		executables = (
+			3D9BD0DE14EAE53200CBD2E2 /* SimpleVideoPlayer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					601,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 353921262;
+			PBXWorkspaceStateSaveDate = 353921262;
+		};
+		perUserProjectItems = {
+			3D0D734D1518746700666551 /* PBXTextBookmark */ = 3D0D734D1518746700666551 /* PBXTextBookmark */;
+			3D0D734E1518746700666551 /* PBXTextBookmark */ = 3D0D734E1518746700666551 /* PBXTextBookmark */;
+			3D0D734F1518746700666551 /* PBXTextBookmark */ = 3D0D734F1518746700666551 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3D9BD0F514EAE54600CBD2E2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3D0D734D1518746700666551 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SimpleVideoPlayerViewController.h */;
+		name = "SimpleVideoPlayerViewController.h: 10";
+		rLen = 11;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 403;
+		vrLoc = 153;
+	};
+	3D0D734E1518746700666551 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SimpleVideoPlayerViewController.m */;
+		name = "SimpleVideoPlayerViewController.m: 77";
+		rLen = 19;
+		rLoc = 2189;
+		rType = 0;
+		vrLen = 378;
+		vrLoc = 247;
+	};
+	3D0D734F1518746700666551 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SimpleVideoPlayerViewController.m */;
+		name = "SimpleVideoPlayerViewController.m: 60";
+		rLen = 4;
+		rLoc = 1593;
+		rType = 0;
+		vrLen = 322;
+		vrLoc = 2554;
+	};
+	3D9BD0DE14EAE53200CBD2E2 /* SimpleVideoPlayer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SimpleVideoPlayer;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3D9BD0F514EAE54600CBD2E2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3D9BD0F614EAE54600CBD2E2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

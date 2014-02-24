@@ -1,0 +1,406 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* QCoreDataAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {791, 1155}}";
+			sepNavSelRange = "{66, 0}";
+			sepNavVisRange = "{0, 367}";
+		};
+	};
+	1D3623250D0F684500981E51 /* QCoreDataAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1247, 6615}}";
+			sepNavSelRange = "{2074, 0}";
+			sepNavVisRange = "{221, 375}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* QCoreData */ = {
+		activeExec = 0;
+		executables = (
+			3D5EC3C414F19A1500847E79 /* QCoreData */,
+		);
+	};
+	28C3AD890F43EF2300507BA6 /* QCoreData.xcdatamodel */ = {
+		uiCtxt = {
+			"Xdesign Model Editor Bookmark Key" = {
+				UIContextForDetailArea = {
+					_indexOfSelectedPane = 0;
+					_indexOfSelectedView = 1;
+				};
+				UIContextForEntityArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnns = (
+						"ET Entity",
+						"ET Abstract",
+						"ET Class",
+					);
+					chosenTableColumnns_sortDirections = (
+						YES,
+					);
+					chosenTableColumnns_sortKeys = (
+						name,
+					);
+					chosenTableColumnns_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidths = (
+						103.000000,
+						22.000000,
+						111.080078,
+					);
+				};
+				UIContextForLayoutManager = {
+					detailSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {521, 220}}",
+							"{{526, 0}, {274, 220}}",
+						);
+					};
+					diagramSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {800, 220}}",
+							"{{0, 225}, {800, 213}}",
+						);
+					};
+					tableSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {261, 220}}",
+							"{{266, 0}, {255, 220}}",
+						);
+					};
+				};
+				UIContextForPropertyArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnnFRTs = (
+						"FT Fetch Request",
+						"FT Predicate",
+					);
+					chosenTableColumnnFRTs_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnFRTs_sortKeys = (
+						name,
+					);
+					chosenTableColumnnFRTs_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsAT = (
+						"AT Attribute",
+						"AT Type",
+					);
+					chosenTableColumnnsAT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsAT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsAT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsFPT = (
+						"FP FetchedProperty",
+						"FP Destination",
+						"FP Predicate",
+					);
+					chosenTableColumnnsFPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsFPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsFPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsPT = (
+						"PT Property",
+						"PT Kind",
+						"PT SharedKeyOne",
+					);
+					chosenTableColumnnsPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsRT = (
+						"RT Relationship",
+						"RT Destination",
+					);
+					chosenTableColumnnsRT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsRT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsRT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidthsAT = (
+						128.000000,
+						64.000000,
+					);
+					chosenTableWidthsFPT = (
+						128.000000,
+						64.000000,
+						144.764160,
+					);
+					chosenTableWidthsFRT = (
+						128.000000,
+						249.764160,
+					);
+					chosenTableWidthsPT = (
+						128.000000,
+						108.110840,
+						96.570801,
+					);
+					chosenTableWidthsRT = (
+						128.000000,
+						64.000000,
+					);
+				};
+				"xdesign model browser state key - shown/hidden" = 1;
+				"xdesign model diagram view visible rect key" = "{{0, 83}, {785, 198}}";
+			};
+			sepNavWindowFrame = "{{4, 4}, {800, 574}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3D5EC3C414F19A1500847E79 /* QCoreData */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* QCoreData */;
+		codeSenseManager = 3D5EC3D214F19A1700847E79 /* Code sense */;
+		executables = (
+			3D5EC3C414F19A1500847E79 /* QCoreData */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					345,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 358223570;
+			PBXWorkspaceStateSaveDate = 358223570;
+		};
+		perUserProjectItems = {
+			3D98AE3E151C1E1F00ED621C = 3D98AE3E151C1E1F00ED621C /* PBXTextBookmark */;
+			3D98AE5C151C24AB00ED621C = 3D98AE5C151C24AB00ED621C /* PBXTextBookmark */;
+			3D98AE5D151C24AB00ED621C = 3D98AE5D151C24AB00ED621C /* PBXTextBookmark */;
+			3D98AE5E151C24AB00ED621C = 3D98AE5E151C24AB00ED621C /* PBXTextBookmark */;
+			3D98AE5F151C24AB00ED621C = 3D98AE5F151C24AB00ED621C /* PBXTextBookmark */;
+			3D98AE60151C24AB00ED621C = 3D98AE60151C24AB00ED621C /* PBXTextBookmark */;
+			3D98AE61151C24AB00ED621C = 3D98AE61151C24AB00ED621C /* PBXTextBookmark */;
+			3D98AE62151C24AB00ED621C = 3D98AE62151C24AB00ED621C /* XDModelBookmark */;
+			3D98AECD151C743400ED621C = 3D98AECD151C743400ED621C /* PlistBookmark */;
+			3D98AECE151C743400ED621C = 3D98AECE151C743400ED621C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3D5EC3D114F19A1700847E79 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29FC6D2812EF1D2D0037AD2B /* FailedBankInfo.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {737, 567}}";
+			sepNavSelRange = "{56, 4}";
+			sepNavVisRange = "{0, 436}";
+		};
+	};
+	29FC6D2912EF1D2D0037AD2B /* FailedBankInfo.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {737, 461}}";
+			sepNavSelRange = "{61, 0}";
+			sepNavVisRange = "{0, 256}";
+		};
+	};
+	29FC6D2A12EF1D2D0037AD2B /* FailedBankDetails.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {737, 546}}";
+			sepNavSelRange = "{63, 0}";
+			sepNavVisRange = "{0, 442}";
+		};
+	};
+	29FC6D2B12EF1D2D0037AD2B /* FailedBankDetails.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {523, 441}}";
+			sepNavSelRange = "{64, 0}";
+			sepNavVisRange = "{0, 277}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* QCoreData_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {791, 364}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 358}";
+		};
+	};
+	3D5EC3C414F19A1500847E79 /* QCoreData */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = QCoreData;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3D5EC3D114F19A1700847E79 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3D5EC3D214F19A1700847E79 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3D98AE3E151C1E1F00ED621C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QCoreDataAppDelegate.h */;
+		name = "QCoreDataAppDelegate.h: 5";
+		rLen = 0;
+		rLoc = 66;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 0;
+	};
+	3D98AE5C151C24AB00ED621C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* QCoreData_Prefix.pch */;
+		name = "QCoreData_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 358;
+		vrLoc = 0;
+	};
+	3D98AE5D151C24AB00ED621C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QCoreDataAppDelegate.m */;
+		name = "QCoreDataAppDelegate.m: 66";
+		rLen = 0;
+		rLoc = 2074;
+		rType = 0;
+		vrLen = 884;
+		vrLoc = 1721;
+	};
+	3D98AE5E151C24AB00ED621C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29FC6D2812EF1D2D0037AD2B /* FailedBankInfo.h */;
+		name = "FailedBankInfo.h: 5";
+		rLen = 4;
+		rLoc = 56;
+		rType = 0;
+		vrLen = 436;
+		vrLoc = 0;
+	};
+	3D98AE5F151C24AB00ED621C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29FC6D2912EF1D2D0037AD2B /* FailedBankInfo.m */;
+		name = "FailedBankInfo.m: 5";
+		rLen = 0;
+		rLoc = 61;
+		rType = 0;
+		vrLen = 256;
+		vrLoc = 0;
+	};
+	3D98AE60151C24AB00ED621C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29FC6D2A12EF1D2D0037AD2B /* FailedBankDetails.h */;
+		name = "FailedBankDetails.h: 5";
+		rLen = 0;
+		rLoc = 63;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 0;
+	};
+	3D98AE61151C24AB00ED621C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29FC6D2B12EF1D2D0037AD2B /* FailedBankDetails.m */;
+		name = "FailedBankDetails.m: 5";
+		rLen = 0;
+		rLoc = 64;
+		rType = 0;
+		vrLen = 298;
+		vrLoc = 0;
+	};
+	3D98AE62151C24AB00ED621C /* XDModelBookmark */ = {
+		isa = XDModelBookmark;
+		fRef = 28C3AD890F43EF2300507BA6 /* QCoreData.xcdatamodel */;
+		fallbackIsa = PBXBookmark;
+	};
+	3D98AECD151C743400ED621C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* QCoreData-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/work/T74_iOS_Demo/iOS-L15/CoreData/QCoreData/QCoreData-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	3D98AECE151C743400ED621C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QCoreDataAppDelegate.m */;
+		name = "QCoreDataAppDelegate.m: 66";
+		rLen = 0;
+		rLoc = 2074;
+		rType = 0;
+		vrLen = 812;
+		vrLoc = 1769;
+	};
+}

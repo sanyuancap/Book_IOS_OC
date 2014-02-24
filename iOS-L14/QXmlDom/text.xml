@@ -1,0 +1,15 @@
+<?xml version ="1.0" encoding ="UTF8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="yxfqust.xsl" ?>
+<!--以下是一个学生名单-->
+<student_list>
+	<student>
+	    <stu_num>2003081205</stu_num>
+	    <stu_name>otis</stu_name>
+	    <stu_class>T23</stu_class>
+	</student>
+	<student>
+	    <stu_num>2003081206</stu_num>
+	    <stu_name>tommy</stu_name>
+	    <stu_class>T24</stu_class>
+	</student>
+</student_list>
